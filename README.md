@@ -1,4 +1,6 @@
 
+## Live Application - https://churnometer-tl-26f877789cba.herokuapp.com/
+
 ## Dataset Content
 The dataset is sourced from [Kaggle](https://www.kaggle.com/codeinstitute/telecom-churn-dataset). We created then a fictitious user story where predictive analytics can be applied in a real project in the workplace.
 Each row represents a customer, each column contains a customer attribute. The data set includes information about:
